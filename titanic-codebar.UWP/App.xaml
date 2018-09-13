@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="titanic_codebar.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:titanic_codebar.UWP"
+    RequestedTheme="Light">
+
+</Application>
