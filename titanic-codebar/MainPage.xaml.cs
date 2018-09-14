@@ -24,7 +24,7 @@ namespace titanic_codebar
                 Device.BeginInvokeOnMainThread(async () =>
                 {
                     await Navigation.PopAsync();
-                    mycode.Text = result.Text;
+                    mycode.Text = result.Text; 
                 });
             };
         }
